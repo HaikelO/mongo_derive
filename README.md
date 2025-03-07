@@ -1,4 +1,4 @@
-# mongo-derive
+# mongo_derive
 
 A Rust procedural macro crate that simplifies MongoDB operations by generating update builders for your structs.
 
@@ -15,7 +15,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-mongo-derive = "0.1.0"
+mongo_derive = "0.1.0"
 ```
 
 ## Usage
